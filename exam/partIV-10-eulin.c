@@ -6,7 +6,7 @@ int main(){
     double x, result, y, z, tol = 0.00001;
 
     printf("Enter number to find its square root: ");
-    scanf("%lf", &num); // long float for double
+    scanf("%lf", &x); // long float for double
 
     y = 1; // initialize the value of the first approximation as y = 1
     z = 0; // initialize to 0 since yn+1 still has no value
