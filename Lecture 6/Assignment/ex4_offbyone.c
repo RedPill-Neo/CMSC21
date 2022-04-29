@@ -8,11 +8,4 @@ int main(){
 	for (i = 1; i<=10 ; i++){
 		a[i] = 0;
 	}
-
-	printf("%d\n", a[i]);
-
-	system("PAUSE");
-
-	return 0;
-
 }
